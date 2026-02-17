@@ -9,6 +9,7 @@
     "preview": "astro preview"
   },
   "dependencies": {
+    "@astrojs/vercel": "latest",
     "@astrojs/react": "latest",
     "@supabase/supabase-js": "latest",
     "@tailwindcss/vite": "latest",
